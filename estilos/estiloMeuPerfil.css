@@ -29,6 +29,7 @@ div.experiencias {
     border-color: black;
     border-radius: 20px;
     width: auto;
+    text-align: center;
 }
 
 div.formacao {
@@ -37,6 +38,7 @@ div.formacao {
     border-color: black;
     border-radius: 20px;
     width: auto;
+    text-align: center;
 }
 
 h3,

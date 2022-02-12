@@ -1,0 +1,45 @@
+@charset "UTF-8";
+body {
+    text-align: center;
+    font-family: arial, sans-serif;
+    font-size: 20px;
+    background-image: radial-gradient(circle, #69DAFA, #B5ECFB, #58737A);
+    margin: auto;
+}
+
+h1,
+h2,
+h3 {
+    font-family: serif;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+div.experiencias {
+    border-style: double;
+    border-width: 5px;
+    border-color: black;
+    border-radius: 20px;
+    width: auto;
+}
+
+div.formacao {
+    border-style: double;
+    border-width: 5px;
+    border-color: black;
+    border-radius: 20px;
+    width: auto;
+}
+
+h3,
+h2 {
+    text-align: center;
+}

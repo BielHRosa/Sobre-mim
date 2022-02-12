@@ -1,0 +1,91 @@
+    @charset "UTF-8";
+    body {
+        font: normal 20px Arial, Verdana, serif;
+        margin: 0px;
+        background-image: radial-gradient(circle, white, #929292, #58737A);
+    }
+    
+    header {
+        background-color: #58737A;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-bottom: 10px;
+        border-style: inset;
+        border-radius: 30px;
+        margin-top: 10px;
+    }
+    
+    header p {
+        text-align: center;
+    }
+    
+    header h1 {
+        background-image: radial-gradient(circle, white, #929292, #58737A);
+        border-style: double;
+        border-width: 10px;
+        border-radius: 20px;
+        text-align: center;
+        text-decoration: underline;
+        font-family: URW Chancery L, cursive;
+    }
+    
+    a {
+        color: black;
+        text-decoration: none;
+        font-weight: bold;
+    }
+    
+    a:hover {
+        text-decoration: underline;
+    }
+    
+    article {
+        columns: 2;
+    }
+    
+    picture.hamburgao img {
+        min-width: 160px;
+        max-width: 287px;
+        width: 40%;
+    }
+    
+    picture.moto img {
+        min-width: 160px;
+        max-width: 600px;
+        width: 40%;
+    }
+    
+    picture.carro img {
+        min-width: 160px;
+        max-width: 600px;
+        width: 40%;
+    }
+    
+    picture.pc img {
+        min-width: 160px;
+        max-width: 600px;
+        width: 40%;
+    }
+    
+    picture.familia img {
+        min-width: 160px;
+        max-width: 600px;
+        width: 40%;
+    }
+    
+    section {
+        margin: 20px 0px 20px 20px;
+    }
+    
+    footer {
+        background-color: black;
+        padding-bottom: 5px;
+        margin: 0px;
+    }
+    
+    footer>p {
+        color: white;
+        padding-left: 10px;
+        text-align: center;
+        margin: 0px;
+    }
